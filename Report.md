@@ -9,7 +9,11 @@ Double Q-Learning has been shown to work well in practice to help with this.
 # Plot of Rewards
 1) Deep Q-learning
 
+![](DQN.png)
+
 2) Double-Deep Q-learning
+
+![](DDQN.png)
 
 # Ideas for Future Work
 - Prioritized Experience Replay (for details go to: https://arxiv.org/abs/1511.05952)
